@@ -4,9 +4,10 @@ using namespace std;
 
 int main()
 {
+    cout<<"Hello world";
+
     int a, b, sum=0;
 
-    cout<<"Enter the first number";
     cin>>a;
     cout<<"Enter the second number";
     cin>>b;
